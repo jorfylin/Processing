@@ -1,6 +1,6 @@
 ArrayList ballCollection = new ArrayList();
 int count = 0;
-int rate = 60;
+int rate = 30;
 float life=1;
 int number=50;
 int fre =2;
